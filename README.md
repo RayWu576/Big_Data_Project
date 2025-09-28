@@ -1,5 +1,4 @@
 # Big_Data_Project
-大數據專題
 ## 競賽題目
 Russian Car Plates Prices Prediction 
 ## 題目說明

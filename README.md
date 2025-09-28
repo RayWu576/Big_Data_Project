@@ -11,8 +11,8 @@ Russian Car Plates Prices Prediction
 能夠根據這些資訊準確預測尚未標價車牌的市場
 價值。
 ## 評估目標
-本競賽以 SMAPE（對稱平均絕對百分
+本競賽以SMAPE（對稱平均絕對百分
 比誤差，Symmetric Mean Absolute Percentage 
-Error）作為評估指標。SMAPE 會計算對測
-試集所有預測值與實際值的誤差，SMAPE 越低
+Error）作為評估指標。SMAPE會計算對測
+試集所有預測值與實際值的誤差，SMAPE越低
 代表預測效果越佳。
